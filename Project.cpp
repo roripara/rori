@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	string code = "rori";
+
+	cout << "I am  " << code << " dayo!";
+	return 0;
+}
